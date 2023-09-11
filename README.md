@@ -10,5 +10,6 @@
 5. tqdm
 6. seaborn
 
-![image](https://github.com/ZhDmitriy/AB_test_python/assets/141666797/d702fdb9-c050-4d9b-8d47-28c21ee8a4b5)
+![image](https://github.com/ZhDmitriy/AB_test_python/assets/141666797/df3e910f-faef-45f7-9c80-f90febbaf120)
+
 
